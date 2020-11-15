@@ -1,2 +1,0 @@
-
-alert("loading muna");
